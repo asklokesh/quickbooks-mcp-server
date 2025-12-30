@@ -1,5 +1,7 @@
 # QuickBooks MCP Server
 
+<!-- mcp-name: io.github.asklokesh/quickbooks-mcp-server -->
+
 <div align="center">
 
 # Quickbooks Mcp Server
