@@ -28,3 +28,6 @@ dev = [
 
 [project.scripts]
 quickbooks-mcp = "quickbooks_mcp.server:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/quickbooks_mcp"]
